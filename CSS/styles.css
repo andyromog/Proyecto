@@ -1,0 +1,370 @@
+.imagen {
+    max-width: 100%;
+    padding: 40px;
+    margin: auto;
+}
+
+.imagenkeithyyo {
+    max-width: 60%;
+    margin: auto;
+    padding-top: 100px;
+}
+
+body {
+    background-image: url(../img/fondorosa.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: indivisible;
+
+}
+
+.divconborde {
+    border-bottom: 2px solid #000000;
+    border-left: 2px solid #000000;
+    border-right: 2px solid #000000;
+    height: 100vh;
+}
+
+.divconbordeprincipal{
+    border-bottom: 2px solid #000000;
+    border-left: 2px solid #000000;
+    border-right: 2px solid #000000;
+    height: 100vh;
+}
+
+.divconbordeultimo {
+    border-bottom: 2px solid #000000;
+    border-left: 2px solid #000000;
+    border-right: 2px solid #000000;
+    padding-top: 125px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+}
+
+.divconpadding {
+    padding-top: 120px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+}
+
+
+.divverde1 {
+    border-left: 2px solid #000;
+    border-bottom: 2px solid #000;
+    background-color: #8CC44A;
+    height: 100vh;
+}
+
+.divverde2 {
+    border-right: 2px solid #000;
+    border-bottom: 2px solid #000;
+    background-color: #8CC44A;
+    height: 100vh;
+}
+
+/* esto de los dos puntos después del url es decirle que se salga de la carpeta
+y se meta a la de imagen */
+.banner {
+    background-color: #E174C1;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(../img/fondo.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.footer {
+    background-color: #3CACD6;
+    height: 30vh;
+    color: white;
+    width: 100%;
+    border-left: 2px solid #000;
+    border-right: 2px solid #000;
+    border-bottom: 2px solid #000;
+    padding-top: 50px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 50px;
+}
+
+.btn {
+    background-color: #3CACD6 !important;
+    border-color: black !important;
+    border-width: 2px !important;
+    color: #FFDB39 !important;
+    text-align: center !important;
+    font-family: "indivisible", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    color: #FFDB39;
+    font-size: 50px;
+    text-shadow: 2px 0 #000, -2px 0 #000, 0 2px #000, 0 -2px #000,
+        1px 1px #000, -1px -1px #000, 1px -1px #000, -1px 1px #000;
+    border-radius: 35px;
+    padding-left: 60px;
+    padding-right: 60px;
+}
+
+.btn2 {
+    background-color: #3CACD6 !important;
+    border-color: black !important;
+    border-width: 2px !important;
+    color: #FFDB39 !important;
+    text-align: center !important;
+    font-family: "indivisible", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    color: #FFDB39;
+    font-size: 50px;
+    text-shadow: 2px 0 #000, -2px 0 #000, 0 2px #000, 0 -2px #000,
+        1px 1px #000, -1px -1px #000, 1px -1px #000, -1px 1px #000;
+    border-radius: 35px;
+    padding-left: 60px;
+    padding-right: 60px;
+    margin-top: 15px;
+}
+
+h1 {
+    font-family: "indivisible", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    color: #FFDB39;
+    font-size: 150px;
+    line-height: 150px;
+    margin-bottom: 0px !important;
+    text-shadow: 2px 0 #000, -2px 0 #000, 0 2px #000, 0 -2px #000,
+        1px 1px #000, -1px -1px #000, 1px -1px #000, -1px 1px #000;
+    padding-top: 70px;
+}
+
+h2 {
+    font-family: "indivisible", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: black;
+    font-size: 43px;
+    padding-bottom: 150px;
+}
+
+h3 {
+    font-family: "indivisible", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    color: #FFDB39;
+    font-size: 90px;
+    text-shadow: 1px 0 #000, -1px 0 #000, 0 1px #000, 0 1px #000,
+        1px 1px #000, -1px -1px #000, 1px -1px #000, -1px 1px #000;
+    line-height: 85px;
+}
+
+.navbar {
+    background-color: #3CACD6 !important;
+    width: 100%;
+    border: solid;
+    border-color: #000;
+    border-width: 2px !important;
+}
+
+.logo {
+    max-width: 25%;
+    margin: 0  !important;;
+}
+
+p {
+    font-family: "indivisible", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #000;
+    font-size: 18px;
+    line-height: 25px;
+}
+
+.nav-link {
+    font-family: "indivisible", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #000;
+    font-size: 20px;
+    line-height: 25px;
+}
+
+h4 {
+    font-family: "indivisible", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #000;
+    font-size: 15px;
+    line-height: 19px;
+}
+
+.linkfooter {
+    font-family: "indivisible", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #000;
+    font-size: 15px;
+    line-height: 19px;
+}
+
+h5 {
+    font-family: "indivisible", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #000;
+    font-size: 15px;
+    line-height: 19px;
+    padding-top: 45px;
+}
+
+.linkfooterpeque {
+    font-family: "indivisible", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #000;
+    font-size: 10px;
+    line-height: 19px;
+}
+
+.flex {
+    display: flex;
+}
+
+.nav-item {
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.logo {
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+
+
+
+
+@media screen and (max-width: 500px) {
+
+    .btn {
+        border-width: 1.5px !important;
+        font-size: 45px;
+        text-shadow: 1.5px 0 #000, -1.5px 0 #000, 0 1.5px #000, 0 -1.5px #000,
+            1px 1px #000, -1px -1px #000, 1px -1px #000, -1px 1px #000;
+    }
+
+    .btn2 {
+        border-width: 1.5px !important;
+        font-size: 45px;
+        text-shadow: 1.5px 0 #000, -1.5px 0 #000, 0 1.5px #000, 0 -1.5px #000,
+            1px 1px #000, -1px -1px #000, 1px -1px #000, -1px 1px #000;
+    }
+
+    h1 {
+        font-size: 105px;
+        line-height: 100px;
+        padding-top: 50px;
+        text-shadow: 1.5px 0 #000, -1.5px 0 #000, 0 1.5px #000, 0 -1.5px #000,
+        1px 1px #000, -1px -1px #000, 1px -1px #000, -1px 1px #000;
+        text-align: left;
+        padding-left: 30px;
+    }
+
+
+    h2 {
+        color: black;
+        font-size: 28px;
+        padding-bottom: 150px;
+        padding-left: 30px;
+        padding-top: 20px;
+    }
+
+
+    .banner {
+        background-image: url(../img/fondotel.png);
+        height: 100%;
+    }
+
+
+    h3 {
+        font-size: 78px;
+        text-shadow: 1.5px 0 #000, -1.5px 0 #000, 0 1.5px #000, 0 1.5px #000,
+            1px 1px #000, -1px -1px #000, 1px -1px #000, -1px 1px #000;
+        line-height: 80px;
+    }
+
+    p {
+        font-size: 16px;
+        line-height: 23px;
+    }
+
+
+    .linkfooter {
+        font-size: 15px;
+        line-height: 19px;
+    }
+
+    .linkfooterpeque {
+        font-size: 8px;
+        line-height: 19px;
+    }
+
+    h4 {
+        font-size: 15px;
+        line-height: 23px;
+    }
+
+    h5 {
+        font-size: 13px;
+        line-height: 19px;
+        padding-top: 45px;
+    }
+
+    .divconborde {
+        height: 100%;
+    }
+
+    .divconbordeprincipal{
+        height: 100vh;
+    }
+
+    .footer {
+        height: 100%;
+        padding-top: 40px;
+        padding-left: 50px;
+        padding-right: 50px;
+        padding-bottom: 40px;
+    }
+
+    .imagen {
+        max-width: 150px;
+        padding: 10px;
+        margin: auto;
+    }
+
+    .imagenkeithyyo {
+        max-width: 80%;
+        padding-top: 50px;
+        padding-bottom: 50px;
+
+    }
+
+    .divverde1 {
+        border-top: 2px solid #000;
+        border-bottom: 0px;
+        border-left: 0px;
+        height: 100%;
+    }
+    
+    .divverde2 {
+        border-top: 2px solid #000;
+        border-right: 2px solid #000;
+        border-bottom: 0px;
+        border-right: 0px;
+        border-right: 0px;
+        background-color: #8CC44A;
+        height: 100%;
+    }
+}
